@@ -3,7 +3,7 @@ A list of tools, middleware, services, etc. for Game Development
 
 ### Build
 
-- [CMAKE](https://cmake.org/)
+- [CMake](https://cmake.org/)
 - [Graddle](https://gradle.org/)
 
 ### Security
